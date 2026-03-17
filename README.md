@@ -1,2 +1,1 @@
-# LP2
-Projetos em aula
+# 💻 Linguagem de Programação II
